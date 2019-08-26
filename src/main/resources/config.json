@@ -1,0 +1,22 @@
+{
+	"bridgemode": true,
+	"bridge": [
+		{
+			"IP": "192.168.1.185",
+			"PORT": 5001
+		}
+	],
+	"storenode": [
+		{
+			"IP": "192.168.1.41",
+			"PORT": 5001
+		}
+	],
+	"lowSpeedTime": 30,
+	"lowSpeedLimit": 500,
+	"Signature": {
+		"Name": "mdsn.sg",
+		"Enabled": true
+	},
+	"fecEnable": true
+}
